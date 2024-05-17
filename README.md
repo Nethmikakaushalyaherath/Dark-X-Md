@@ -1,7 +1,9 @@
 <h1 align="center"> 𝗧𝗛𝗘 𝗗𝗮𝗿𝗸 𝗫-𝗠𝗗 𝗠𝗨𝗟𝗧𝗬 𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 </h1>
 <p align="center">  
   
-***
+  
+<div align="center" class= "main"> 
+  <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
   
 
 
@@ -11,7 +13,7 @@
 </p
 
 
-  <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="300" height="300"/>
+
   
   
 <p align="center">
