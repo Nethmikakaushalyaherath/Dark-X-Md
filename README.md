@@ -10,9 +10,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BOSS+MD;CREATED+BY+BOSS_MIND;Netha+Nethmika" alt="Typing SVG" /></a>   
 </p
 
-div align="center" class= "main"> 
+
   <img src="https://telegra.ph/file/125ac49e3762efedace06.jpg" width="300" height="300"/>
-  <h1>ＢＯＳＳ-ＭＤ</h1>
+  
   
 <p align="center">
 <p align="center">
