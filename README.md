@@ -25,7 +25,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`]("https://github.com/Nethmikakaushalyaherath/Dark-X-Md/blob/main/README.md"/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Nethmikakaushalyaherath/Dark-X-Md/blob/main/README.md/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
 
