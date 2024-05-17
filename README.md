@@ -25,7 +25,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](""/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`]("https://github.com/Nethmikakaushalyaherath/Dark-X-Md/blob/main/README.md"/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr.onrender.com) Or [`PAIRING CODE`](https://flash-md-z6lm.onrender.com/pair)***
 
@@ -52,21 +52,9 @@
 
 ***
 
-### LICENSE 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
-
--Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
 ***
-### DEVELOPER:
+### DEVELOPER NETHMIKA OFC:
 **GET In Touch with The Owner**
-- [**On Instagram**](https://instagram.com/france.king1)
-- [**Via WhatsApp**](https://wa.me/254757835036)
-
-***
-
-### THANKS TO:
-- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
-- [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
-- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
-- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **FLASH-MD**
+- [**On Whatsapp channel**](https://whatsapp.com/channel/0029VaexBKX4SpkOBf4W5H1g)
+- [**Via WhatsApp**](https://wa.me/94715742238)
